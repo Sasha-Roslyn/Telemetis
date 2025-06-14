@@ -22,12 +22,11 @@ Quick Start:
 
 Clone the repository:
 
-bash
 git clone https://github.com/Sasha-Roslyn/Telemetis.git
 cd Telemetis
 
 Install dependencies:
-bash
+
 pip install -r requirements.txt
 
 Requirements:
