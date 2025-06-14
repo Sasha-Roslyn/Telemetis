@@ -42,7 +42,7 @@ pillow>=8.0.0
 Basic Usage: 
 Dual-Input Approach:
 
-python
+```python
 from odysseynet_dual import build_odysseynet_dual, combined_loss
 
 # Create dual-input model (binary + RGB)
@@ -50,7 +50,7 @@ model = build_odysseynet_dual(
     binary_shape=(128, 128, 5), 
     rgb_shape=(128, 128, 3)
 )
-
+```
 # Model comes pre-compiled with custom loss functions
 # Ready for training with your data
 
