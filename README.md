@@ -131,6 +131,6 @@ bibtex@software{odysseynet2025,
 Credits:
 
 Created by: Sasha Roslin
-Acknowledgments: BHP for input data and HPC facility access to train OdysseyNet.
 
 The name OdysseyNet reflects a journey through complex image space toward compact, expressive understanding.
+
